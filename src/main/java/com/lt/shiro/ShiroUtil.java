@@ -5,6 +5,6 @@ package com.lt.shiro;
  */
 public class ShiroUtil {
     public static void main(String[] args) {
-        System.out.printf("xxx");
+        System.out.printf("xxxeee");
     }
 }
